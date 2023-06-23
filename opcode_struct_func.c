@@ -1,7 +1,8 @@
 #include "monty.h"
 
 /**
- * opcode_struct - a function that checks for opcode's associated function and executes it
+ * opcode_struct - a function that checks for opcode's
+ * associated function and executes it
  * @opcode: user input
  * @stack: a pointer to stack
  * @line_number: line number
